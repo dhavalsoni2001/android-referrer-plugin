@@ -1,0 +1,16 @@
+{
+  "name": "android-referrer-plugin",
+  "version": "1.0.0",
+  "description": "android-referrer-plugin ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhavalsoni2001/android-referrer-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhavalsoni2001/android-referrer-plugin/issues"
+  },
+  "homepage": "https://github.com/dhavalsoni2001/android-referrer-plugin#readme"
+}
